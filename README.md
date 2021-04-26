@@ -7,4 +7,6 @@ Soil moisture sensor - Kuman Soil Moisture Sensor Kit
 
 Two google sheets were created using IFTTT website. These were cleaned with the r program also included.
 
+The resulting file included is named garden_data_final.csv.
+
 Data was then transfered to Power BI for visualization.
