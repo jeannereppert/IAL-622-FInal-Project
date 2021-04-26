@@ -10,3 +10,6 @@ Two google sheets were created using IFTTT website. These were cleaned with the 
 The resulting file included is named garden_data_final.csv.
 
 Data was then transfered to Power BI for visualization.
+
+The website url for the Power BI dashboard is: https://app.powerbi.com/view?r=eyJrIjoiNDAxZWUzZjEtOWIxMS00NGZmLTgyNjgtZTRhNjllNzdkNjU4IiwidCI6IjczZTE1Y2Y1LTVkYmItNDZhZi1hODYyLTc1MzkxNjI2OWQ3MyIsImMiOjF9&pageName=ReportSection
+
