@@ -1,5 +1,5 @@
 # IAL-622-Final-Project
-Included in this repository are the two files used to program the arduinos in order to get data from the following sensors:
+Included in this repository are the two files used to program two arduinos in order to get data from the following sensors:
 Light sensor - photoresistor
 Air temperature and humidity sensor - Kuman Temperature and Humidity Sensor
 Soil temperature sensor - GAOHOU 2 PCS DS18B20 Waterproof Digital Temperature Sensor with Adapter Module for Arduino
